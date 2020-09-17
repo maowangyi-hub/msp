@@ -1,0 +1,4 @@
+dbsource: 
+    url: jdbc:oracle:thin:@192.168.27.4:1521/orclPROD
+    username: MSP_ORDER_U
+    password: MSP_ORDER_PW
