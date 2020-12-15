@@ -1,4 +1,4 @@
 dbsource: 
     url: jdbc:oracle:thin:@192.168.27.4:1521/orcl
     username: FX_DW_GKDEV
-    password: FX_DW_GKDEV111111
+    password: FX_DW_GKDEV111111DDDD
